@@ -1,0 +1,46 @@
+# What to Expect
+- Start the day at 8am and finish at 5pm plus 1-2 hours of homework Monday through Friday. Most students put in 4 to 8 hours during the weekend as well.
+- Two breaks during the day: 1 hour and 15 mins for lunch, and 15 mins for afternoon break
+- We’ll start off every day with morning lectures. Sometimes they will cover last night's homework or the previous days material, and other days we’ll jump right into that days material (project/s).
+- During the projects is when you call us over for questions. Do this a lot! It’s what we’re here for! Use the button on Progress Tracker.
+- EOD Lecture - last ~30 mins of the day
+- Check-in 3x per day via Progress Tracker. Check-in window starts 5 min before and ends 3 minutes after morning, after lunch, and after break.
+- After class:
+    - Compare your daily code to our solutions
+        - A lot of learning happens here by comparing your code to how a professional software engineer would solve the problem. 
+        - Make sure you write down any questions.
+    - Readings/videos/homework: 
+        - Don’t spend more than the allotted time. 
+        - Make sure you read the descriptions of the next day’s projects, but don’t do them yet.
+    - Nightly report
+- Every day builds on top of the last in terms of technical concepts, so it’s very important that you understand each day’s material as you go. Don’t leave things for later. Call us over for questions a lot. As a rule of thumb, there shouldn’t be a single line of code in your projects that you’re not comfortable with. As soon as that happens, talk about it with your pair or call us over.
+- Strikes 
+    - Meant to hold you accountable 
+    - If you reach 10 strikes, you may be dismissed from the program
+    - Top reasons for strikes: 
+        - Missing any of three check-ins 
+        - Not notifying us that you will miss a check in 
+        - Not filling out nightly report 
+        - Having phone out (being disruptive)
+- Communications 
+    - Slack is our preferred means of communiation (email also works: jortiz@appacademy.io)
+    - This is a bootcamp, it's intense, you’re expected to be here every single day. Strikes are meant to hold you accountable. But we’re humans, we understand things come up, COMMUNICATE. 
+- Assessments
+    - 19 total assessments in the entire course 
+    - Each assessment is made to ensure you’ve learned the previous week material, and are ready to move onto the next section in the course 
+    - Tightly coupled to the learning objectives 
+    - If you fail an assessment you will be deferred to the cycle immediately following ours
+    - If you fail 3 assessments, you will be dismissed from the course 
+    - We’ll give you very specific study plans. It’ll be work, but if you follow the path we give you, you’ll make it.
+- Projects
+    - Every day has a small project that will cover the day's content. You will tackle this along with a pair. Many days you will not complete the project and that is ok. Try to remember what you learned from lecture, if you don't remember, ask your pair, if your pair doesn't know either, research using google or open.appacademy.io, if you get stuck for more than 15 minutes, ask a question on Progress Tracker.
+    - Strive to understand every line of code you write during the day.
+    - 4 full-stack projects. At the end of modules 4, 5, 6, and 7.
+        - Mod 4: Team project using PostgreSQL, Express/JavaScript, Pug templates
+        - Mod 5: Solo project using PostgreSQL, Express/JavaScript, React/JavaScript
+        - Mod 6: Team project using PostgreSQL, Flask/Python, React/JavaScript
+        - Mod 7: Solo project using the stack of your choice
+- This will be a lot of work, but you can do it. It’ll be frustrating and overwhelming at times, but power through and you’ll make it. Literally thousands of people already have gone through this program- you can too and we know it. Remember the pace will be very uncomfortable and it’ll feel like you’re gasping for air at times. This is by design- we designed the course to be as quick a possible to be very accessible to as many people as possible (who wouldn’t have an income during the program), but the tradeoff for it being so fast is that it’s very uncomfortable/overwhelming/frustrating. Remember most people in the class feel the same way.
+- You are each others’ greatest resource. When you don’t understand something- ask. Ask your classmates! The most important skill that we will develop is explaining, which is extremely important in interviews. By asking your classmates, you’re giving them a chance to practice this skill. That’s also why we pair every day.
+- You can do it!!!!
+
